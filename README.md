@@ -30,4 +30,4 @@ Aby uzyskać dostęp do panelu klienta, należy utworzyć konto lub skorzystać 
 email: robert@robert.pl
 hasło: 12345678
 
-Dzięki naszej aplikacji, serwis sprzętów mobilnych zyskał narzędzie pozwalające na efektywne zarządzanie zgłoszeniami klientów. Użytkownicy mają możliwość przeglądania historii zgłoszeń oraz dodawania nowych. Panel administratora umożliwia podgląd zgłoszeń oraz zarządzanie nimi w prosty i intuicyjny sposób.
+Dzięki naszej aplikacji, serwis sprzętów mobilnych zyskał narzędzie pozwalające na efektywne zarządzanie zgłoszeniami klientów. Użytkownicy mają możliwość przeglądania historii zgłoszeń oraz dodawania nowych. Panel administratora umożliwia podgląd zgłoszeń oraz zarządzanie nimi w prosty i intuicyjny sposób.k

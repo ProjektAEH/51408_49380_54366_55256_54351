@@ -1,0 +1,62 @@
+.services {
+    padding: 5rem 2rem;
+    text-align: center;
+  }
+  
+  .services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 4rem;
+  }
+  
+  .service-item {
+    flex-basis: 30%;
+    margin: 1rem;
+    padding: 2rem;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    transform: translateY(0);
+  }
+
+  .service-time {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+    margin-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: 2px solid #555;
+    border-radius: 10px;
+    padding: 8px 12px;
+    background-color: #f7f7f7;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .service-price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #008000;
+    margin-top: 1px;
+  }
+  
+  .service-item:hover {
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+  }
+
+  
+  .service-item img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 2rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .service-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+

@@ -1,0 +1,43 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  position: relative;
+  animation: fadeIn 2s;
+  margin-bottom: 15%;
+  margin-top: 5%;
+}
+
+.why-choose-us li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.5rem;
+  margin-right: 2rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  transition: transform 0.3s ease;
+  overflow: hidden;
+}
+
+.why-choose-us li:hover {
+  transform: translateY(-1rem);
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.3);
+}
+.why-choose-us li:hover::before {
+  height: 100%;
+}
+
+.btn-hero-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
