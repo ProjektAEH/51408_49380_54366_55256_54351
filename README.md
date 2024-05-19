@@ -16,7 +16,7 @@ npm install
 Uruchamianie
 Aby uruchomić aplikację, należy przejść do folderu z aplikacją i wprowadzić polecenie:
 
-cd .\SWPSSM2\
+cd .\51408_49380_54366_55256_54351\
 npm run dev
 
 Obsługa
